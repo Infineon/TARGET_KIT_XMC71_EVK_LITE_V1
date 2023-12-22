@@ -14,6 +14,8 @@ The KIT_XMC71_EVK_LITE_V1 library includes the following:
 * API documentation
 
 ### What Changed?
+#### v2.0.2
+* Updated the BSP description for KIT_XMC71_EVK_LITE_V1 and KIT_XMC71_EVK_LITE_V2 BSPs
 #### v2.0.1
 * Updated the description in README file for KIT_XMC72_EVK and KIT_XMC72_EVK_MUR_43439M2 BSPs
 #### v2.0.0
@@ -52,7 +54,7 @@ Minimum required ModusToolbox™ Software Environment: v3.0.0
 
 ### More information
 * [KIT_XMC71_EVK_LITE_V1 BSP API Reference Manual][api]
-* [KIT_XMC71_EVK_LITE_V1 Documentation](https://www.infineon.com/cms/en/product/evaluation-boards/kit_xmc71_lite_evk/)
+* [KIT_XMC71_EVK_LITE_V1 Documentation](https://www.infineon.com/KIT_XMC71_EVK_LITE_V1)
 * [Cypress Semiconductor, an Infineon Technologies Company](http://www.cypress.com)
 * [Infineon GitHub](https://github.com/infineon)
 * [ModusToolbox™](https://www.cypress.com/products/modustoolbox-software-environment)

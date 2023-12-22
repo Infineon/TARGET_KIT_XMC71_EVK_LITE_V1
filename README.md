@@ -4,7 +4,7 @@
 
 The KIT_XMC71_EVK_LITE_V1, a 176-pin evaluation board is based on the XMC7100 family of devices. XMC7100 MCU is designed for  industrial applications. The evaluation board carries a XMC7100D microcontroller,and headers compatible with Arduino for interfacing Arduino shields. In addition, the board features an on-board programmer/debugger (KitProg3),  a 512-Mbit QSPI NOR flash, CAN FD transceiver, Ethernet PHY transceiver with RJ45 connector interface,  a Shield2Go connector interface and MikroBUS connector interface, two user LEDs, one potentiometer, and two push buttons.  The board supports operating voltages from 3.3 V to 5.0 V for XMC7100D device.
 
-![](docs/html/board.png)
+
 
 To use code from the BSP, simply include a reference to `cybsp.h`.
 
@@ -12,7 +12,7 @@ To use code from the BSP, simply include a reference to `cybsp.h`.
 
 ### Kit Features:
 
-* XMC7100D-F176K4160AA 8MB Flash 176-pin TEQFP device
+* XMC7100D-F176K4160 8MB Flash 176-pin TEQFP device
 * Programming interface (Arm® Standard JTAG, Cortex® Debug + ETM with Arm® ETM Mictor)
 * Reset control with manual reset switch and voltage supervision
 * CAN FD interface
@@ -74,7 +74,7 @@ See the [BSP API Reference Manual][api] for the complete list of the provided in
 
 ## More information
 * [KIT_XMC71_EVK_LITE_V1 BSP API Reference Manual][api]
-* [KIT_XMC71_EVK_LITE_V1 Documentation](https://www.infineon.com/cms/en/product/evaluation-boards/kit_xmc71_lite_evk/)
+* [KIT_XMC71_EVK_LITE_V1 Documentation](https://www.infineon.com/KIT_XMC71_EVK_LITE_V1)
 * [Cypress Semiconductor, an Infineon Technologies Company](http://www.cypress.com)
 * [Infineon GitHub](https://github.com/infineon)
 * [ModusToolbox™](https://www.cypress.com/products/modustoolbox-software-environment)
